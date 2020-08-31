@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dplayer": "^1.22.2",
+    "dplayer": "git+https://github.com/ZhangZheng-GIS/DPlayer",
     "vue-github-badge": "1.0.1"
   }
 }

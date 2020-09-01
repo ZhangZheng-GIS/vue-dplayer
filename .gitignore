@@ -4,5 +4,5 @@ node_modules
 
 # produced by vbuild
 example-dist
-dist
+# dist
 yarn—error.log

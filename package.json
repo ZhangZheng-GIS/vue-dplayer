@@ -6,6 +6,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo lol",
     "build:example": "poi build example/index.js",
@@ -15,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinchang/vue-dplayer.git"
+    "url": "git+https://github.com/ZhangZheng-GIS/vue-dplayer.git"
   },
   "bugs": {
-    "url": "https://github.com/sinchang/vue-dplayer/issues"
+    "url": "https://github.com/ZhangZheng-GIS/vue-dplayer/issues"
   },
   "keywords": [
     "vue",
